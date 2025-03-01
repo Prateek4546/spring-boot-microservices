@@ -17,3 +17,5 @@ D
 deployment/infra.yml,c\f\cfd4b342086666ae45d090924dfef2b7f649c48b
 4
 mvnw,5\d\5d837c4ed85ecaaf932c506e80ff5d7b9f3d590d
+U
+%.github/workflows/catalog-service.yml,b\a\ba85120697573782861052244dca97477c1feed3
